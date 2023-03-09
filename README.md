@@ -7,6 +7,7 @@ This SQL CMS is a command-line application allows us to manage a company's emplo
 Installation
 Usage
 Screenshot
+links
 
 
 ## Installation
@@ -18,3 +19,6 @@ The user should clone the repository from GitHub and download SQL. This app also
 
 ## Screenshot
 ![Screenshot of the Site](./assets/tpg.png) 
+
+## links
+https://github.com/siddz415/Employee-tracker
