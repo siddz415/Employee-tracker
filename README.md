@@ -13,11 +13,11 @@ links
 ## Installation
 The user should clone the repository from GitHub and download SQL. This app also requires using Node.js, Inquirer, and MySQL.
 
-## Usage
+## Gif
 ![](./assets/demo.gif)
 
 ## Screenshot
-![Screenshot of the Site](./assets/tpg.png) 
+![Screenshot of the Site](./assets/et.png) 
 
 ## links
 ## github
