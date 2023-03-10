@@ -14,11 +14,15 @@ links
 The user should clone the repository from GitHub and download SQL. This app also requires using Node.js, Inquirer, and MySQL.
 
 ## Usage
-![](./assets/ezgif.com-video-to-gif.gif)
+![](./assets/ezgif.com-video-to-gif(1).gif)
 
 
 ## Screenshot
 ![Screenshot of the Site](./assets/tpg.png) 
 
 ## links
+## github
 https://github.com/siddz415/Employee-tracker
+
+## video
+https://drive.google.com/file/d/10KNvC-HMHD4OTdlePExRtmQBT0fjKFpT/view
