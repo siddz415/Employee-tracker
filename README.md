@@ -14,8 +14,7 @@ links
 The user should clone the repository from GitHub and download SQL. This app also requires using Node.js, Inquirer, and MySQL.
 
 ## Usage
-![](./assets/ezgif.com-video-to-gif(1).gif)
-
+![](./assets/demo.gif)
 
 ## Screenshot
 ![Screenshot of the Site](./assets/tpg.png) 
